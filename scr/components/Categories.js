@@ -30,7 +30,7 @@ export default function Categories() {
           <View
             key={`categories ${idx}`}
             style={{
-              width: "30%",
+              width: "31%",
               marginBottom: 10,
             }}
           >

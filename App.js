@@ -12,7 +12,7 @@ export default function App() {
         style={{
           width: '100%',
           height: '100%',
-          padding: 15,
+          padding: 10,
           paddingTop: 70,
           paddingBottom: 75,
           // backgroundColor: COLORS.black,

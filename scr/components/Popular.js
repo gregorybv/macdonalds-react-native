@@ -24,7 +24,7 @@ export default function Popular() {
           <View
             key={`popular ${idx}`}
             style={{
-              width: "30%",
+              width: "31%",
               marginBottom: 10,
             }}
           >
